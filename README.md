@@ -1,0 +1,2 @@
+# UNIVERSITY-NETWORK-DESIGN-USING-CISCO-PACKET-TRACER
+This University Network Scenario is about designing a topology of a network that is a LAN (Local Area Network) for a University in which various computers of different departments are set up so that they can interact and communicate with each other by interchanging data. To design a networking scenario for a university which connect various departments to each other’s, it puts forward communication among different departments
